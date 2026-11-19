@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Новый профиль",
+    "Projects": [
+      {
+        "Path": "ConsoleApp1\\EchoServer.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "EchoClient\\EchoClient.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
